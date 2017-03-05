@@ -1,0 +1,9 @@
+﻿Build started 11/26/2016 4:51:33 PM.
+     1>Project "E:\Android\Projects\JuppyJup\cocos2d\external\chipmunk\proj.win32\chipmunk.vcxproj" on node 3 (Build target(s)).
+     1>Lib:
+         chipmunk.vcxproj -> E:\Android\Projects\JuppyJup\proj.win32\Debug.win32\libchipmunk.lib
+     1>Done Building Project "E:\Android\Projects\JuppyJup\cocos2d\external\chipmunk\proj.win32\chipmunk.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60
